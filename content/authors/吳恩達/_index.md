@@ -1,64 +1,43 @@
 ---
-# Display name
-title: 吳恩達
-
-# Username (this should match the folder name)
+title: Dr. Song Ou-Yang
+role: Senior Urologist, Lecturer
+avatar_filename: null
+organizations:
+  - name: First Affiliated Hospital, School of Medicine, Shihezi University
+    url: http://www.sdyfy.com.cn/
+superuser: true
 authors:
   - 吳恩達
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: R Instructor
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Dr. Song Ou-Yang
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - Urology
+  - Andrology
+  - Male Reproductive
+  - Medicine Bioinformatics (R)
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:ouyangsong@shzu.edu.cn
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Teachers
+    link: https://github.com/swcyo
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-7962-2811
+    icon: orcid
+    icon_pack: ai
+education:
+  courses:
+    - course: PhD in Surgery
+      institution: Tongji Medical College, Huazhong University of Science and Technology
+      year: 2021
+    - course: Medical Master in Surgery, 2012
+      institution: Medical college, Shihezi University
+      year: 2013
+    - course: Bachelor in Clinical medicine
+      institution: Changsha Medical college
+      year: 2010
+email: ""
+user_groups: []
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. **Song Ou-Yang** is an associate professor of urology at the Shihezi University. His research interests include urogenital tumors, urolithiasis, male infertility, male erectile dysfunction,etc.
